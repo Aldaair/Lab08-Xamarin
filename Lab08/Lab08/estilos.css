@@ -1,0 +1,21 @@
+/* Estilo para una etiqueta de texto */
+.myLabel {
+    color: #333333;
+    font-size: 18;
+}
+/* Estilo para el botón */
+.myButton {
+    background-color: #3498db;
+    color: white;
+    font-size: 16;
+    padding: 10;
+}
+
+/* Estilo para el cuadro de entrada de texto */
+.myEntry {
+    background-color: #f5f5f5;
+    border-color: #ccc;
+    border-width: 1;
+    font-size: 14;
+    padding: 5;
+}
